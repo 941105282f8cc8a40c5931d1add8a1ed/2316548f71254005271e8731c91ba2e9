@@ -8,7 +8,7 @@
 // @include      https://grepodata.com*
 // @exclude      view-source://*
 // @icon         https://img.freepik.com/vecteurs-premium/mascotte-logo-poulet-delicieux_148096-74.jpg?w=2000
-// @copyright	 2016+, grepodata.com
+// @copyright	 2022+, grepouledata.com
 // @grant        none
 // ==/UserScript==
 
