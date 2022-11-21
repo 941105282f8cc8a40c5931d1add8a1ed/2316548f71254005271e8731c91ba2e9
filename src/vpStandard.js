@@ -1,25 +1,3 @@
-// ==UserScript==
-
-// @name         VpFuego
-
-// @description  Opti Vp dans le rouge
-
-// @author       Fuego
-
-// @grant        none
-
-// @include      http://*.grepolis.com/game/*
-
-// @include      https://*.grepolis.com/game/*
-
-// @icon         https://cdn.discordapp.com/attachments/852734145582071839/852734152939012126/unknown.png
-
-// @version      1.0.0
-
-// ==/UserScript==
-
-
-
 function farm() {
 
 
