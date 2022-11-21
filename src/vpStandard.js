@@ -1,10 +1,6 @@
-alert("test ma gueule");
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
-console.log("turfuuuuuuuuuuuu")
+function deOuf() {
+    console.log("function_deOuf!")
+}
+
+$(document).ready(deOuf());
+
